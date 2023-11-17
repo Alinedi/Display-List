@@ -1,0 +1,16 @@
+/* Parent.css */
+.parent-container {
+  text-align: center;
+}
+
+/* Child.css */
+.child-container {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+img {
+  width: 300px;
+  height: 300px;
+}
